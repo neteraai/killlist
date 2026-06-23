@@ -1,0 +1,4788 @@
+{
+  "operation": "WARDOG1 \u2014 KILL ALL DEAD \u2014 MASTER",
+  "timestamp": "2026-06-23T01:11:28.968730",
+  "total_unique_kills": 777,
+  "critical": 335,
+  "high": 133,
+  "medium": 309,
+  "companies_hit": 608,
+  "kills": [
+    {
+      "company": "Cylance/BlackBerry",
+      "domain": "cylance.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Avast/Norton",
+      "domain": "avast.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Webroot",
+      "domain": "webroot.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Fortinet",
+      "domain": "fortinet.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Check Point",
+      "domain": "checkpoint.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ForgeRock",
+      "domain": "forgerock.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Drata",
+      "domain": "drata.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ExtraHop",
+      "domain": "extrahop.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Corelight",
+      "domain": "corelight.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Mandiant",
+      "domain": "mandiant.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Censys",
+      "domain": "censys.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Shodan",
+      "domain": "shodan.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Digital Guardian",
+      "domain": "digitalguardian.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Imperva",
+      "domain": "imperva.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Akamai",
+      "domain": "akamai.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Signal Sciences",
+      "domain": "signalsciences.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "TECH",
+      "company": "IBM",
+      "domain": "ibm.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "TECH",
+      "company": "VMware",
+      "domain": "vmware.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "TECH",
+      "company": "Intel",
+      "domain": "intel.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "DEFENSE",
+      "company": "Northrop Grumman",
+      "domain": "northropgrumman.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "DEFENSE",
+      "company": "BAE Systems",
+      "domain": "baesystems.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "HEALTHCARE",
+      "company": "UnitedHealth",
+      "domain": "unitedhealthgroup.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "ENERGY",
+      "company": "Chevron",
+      "domain": "chevron.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Texas Instruments",
+      "domain": "ti.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Marvell",
+      "domain": "marvell.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Allegiant",
+      "domain": "allegiantair.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Autozone",
+      "domain": "autozone.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Under Armour",
+      "domain": "underarmour.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Vertex",
+      "domain": "vrtx.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Exact Sciences",
+      "domain": "exactsciences.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Alnylam",
+      "domain": "alnylam.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Ionis",
+      "domain": "ionispharma.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "UFC",
+      "domain": "ufc.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "WWE",
+      "domain": "wwe.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ESPN",
+      "domain": "espn.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Fox Sports",
+      "domain": "foxsports.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "CBS Sports",
+      "domain": "cbssports.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "NBC Sports",
+      "domain": "nbcsports.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Live Nation",
+      "domain": "livenation.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Ticketmaster",
+      "domain": "ticketmaster.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "MSG",
+      "domain": "msg.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Paramount+",
+      "domain": "paramountplus.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Lionsgate",
+      "domain": "lionsgate.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Universal",
+      "domain": "universalpictures.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Sony Pictures",
+      "domain": "sonypictures.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "DreamWorks",
+      "domain": "dreamworks.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Smith & Wesson",
+      "domain": "smith-wesson.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Sig Sauer",
+      "domain": "sigsauer.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Glock",
+      "domain": "glock.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Winchester",
+      "domain": "winchester.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "FN Herstal",
+      "domain": "fnherstal.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "HK",
+      "domain": "heckler-koch.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Trulieve",
+      "domain": "trulieve.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Silver Lake",
+      "domain": "silverlake.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Two Sigma",
+      "domain": "twosigma.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Renaissance",
+      "domain": "rentec.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Baupost",
+      "domain": "baupost.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Publicis",
+      "domain": "publicisgroupe.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Edelman",
+      "domain": "edelman.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Burson",
+      "domain": "bfrg.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Turner",
+      "domain": "turnerconstruction.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Granite",
+      "domain": "graniteconstruction.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "DR Horton",
+      "domain": "drhorton.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "AGCO",
+      "domain": "agcocorp.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Waste Management",
+      "domain": "wm.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Casella",
+      "domain": "casella.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "US Ecology",
+      "domain": "usecology.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Adecco",
+      "domain": "adeccogroup.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Heidrick",
+      "domain": "heidrick.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Grant Thornton",
+      "domain": "grantthornton.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "RSM",
+      "domain": "rsmus.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Freshfields",
+      "domain": "freshfields.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "MGM Resorts",
+      "domain": "mgmresorts.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Caesars",
+      "domain": "caesars.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Penn National",
+      "domain": "pennentertainment.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "BetMGM",
+      "domain": "betmgm.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Mohegan Sun",
+      "domain": "mohegansun.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Disney Cruise",
+      "domain": "disneycruise.disney.go.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "McDonalds",
+      "domain": "mcdonalds.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Dominos",
+      "domain": "dominos.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Subway",
+      "domain": "subway.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Chick-fil-A",
+      "domain": "chick-fil-a.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "JD.com",
+      "domain": "jd.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Vodafone",
+      "domain": "vodafone.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Orange",
+      "domain": "orange.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Telefonica",
+      "domain": "telefonica.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "NTT",
+      "domain": "ntt.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "SK Telecom",
+      "domain": "sktelecom.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Rogers",
+      "domain": "rogers.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "MSNBC",
+      "domain": "msnbc.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Match",
+      "domain": "match.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Rocket Lab",
+      "domain": "rocketlabusa.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Virgin Galactic",
+      "domain": "virgingalactic.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Astra",
+      "domain": "astra.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Stability AI",
+      "domain": "stability.ai",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Hugging Face",
+      "domain": "huggingface.co",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Replicate",
+      "domain": "replicate.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Inflection",
+      "domain": "inflection.ai",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "iRobot",
+      "domain": "irobot.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "FANUC",
+      "domain": "fanuc.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Agility Robotics",
+      "domain": "agilityrobotics.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Figure",
+      "domain": "figure.ai",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "IBM Quantum",
+      "domain": "quantum-computing.ibm.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Atom Computing",
+      "domain": "atom-computing.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Realtor.com",
+      "domain": "realtor.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Trulia",
+      "domain": "trulia.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ComplyAdvantage",
+      "domain": "complyadvantage.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Kin",
+      "domain": "kin.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Pie Insurance",
+      "domain": "pieinsurance.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Argo AI",
+      "domain": "argo.ai",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "TuSimple",
+      "domain": "tusimple.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Skydio",
+      "domain": "skydio.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Joby Aviation",
+      "domain": "jobyaviation.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Archer",
+      "domain": "archer.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Carbon",
+      "domain": "carbon3d.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Fitbit",
+      "domain": "fitbit.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Ads",
+      "domain": "ads.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Cloud",
+      "domain": "cloud.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Maps",
+      "domain": "maps.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Meet",
+      "domain": "meet.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Chat",
+      "domain": "chat.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Photos",
+      "domain": "photos.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Play",
+      "domain": "play.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Store",
+      "domain": "store.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Fi",
+      "domain": "fi.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google One",
+      "domain": "one.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Workspace",
+      "domain": "workspace.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Domains",
+      "domain": "domains.google",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Dev",
+      "domain": "developers.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Safety",
+      "domain": "safety.google",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Health",
+      "domain": "health.google",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Jigsaw",
+      "domain": "jigsaw.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Loon",
+      "domain": "loon.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Glass",
+      "domain": "glass.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Pixel",
+      "domain": "pixel.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Dialogflow",
+      "domain": "dialogflow.cloud.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Apigee",
+      "domain": "apigee.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Mandiant",
+      "domain": "mandiant.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Chronicle",
+      "domain": "chronicle.security",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Kaggle",
+      "domain": "kaggle.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Firebase",
+      "domain": "firebase.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Go",
+      "domain": "go.dev",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google TensorFlow",
+      "domain": "tensorflow.org",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Kubernetes",
+      "domain": "kubernetes.io",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Istio",
+      "domain": "istio.io",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Chromium",
+      "domain": "chromium.org",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google WebRTC",
+      "domain": "webrtc.org",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Material",
+      "domain": "material.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Fonts",
+      "domain": "fonts.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Analytics",
+      "domain": "analytics.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Tag Manager",
+      "domain": "tagmanager.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Optimize",
+      "domain": "optimize.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Search Console",
+      "domain": "search.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Groups",
+      "domain": "groups.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Colab",
+      "domain": "colab.research.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Scholar",
+      "domain": "scholar.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Patents",
+      "domain": "patents.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Earth",
+      "domain": "earth.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Crisis",
+      "domain": "crisisresponse.google",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Waze",
+      "domain": "waze.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Tenor",
+      "domain": "tenor.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Alphabet",
+      "domain": "abc.xyz",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google DoubleClick",
+      "domain": "doubleclick.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Power Platform",
+      "domain": "powerapps.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Intune",
+      "domain": "intune.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Defender",
+      "domain": "defender.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Sentinel",
+      "domain": "sentinel.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Entra",
+      "domain": "entra.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Copilot",
+      "domain": "copilot.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Loop",
+      "domain": "loop.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Viva",
+      "domain": "viva.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Sway",
+      "domain": "sway.office.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Stream",
+      "domain": "stream.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Planner",
+      "domain": "planner.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft To Do",
+      "domain": "to-do.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Whiteboard",
+      "domain": "whiteboard.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Forms",
+      "domain": "forms.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Bookings",
+      "domain": "bookings.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Lists",
+      "domain": "lists.microsoft.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Turn 10",
+      "domain": "turn10studios.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Hover",
+      "domain": "hover.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Gandi",
+      "domain": "gandi.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Dynadot",
+      "domain": "dynadot.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Bluehost",
+      "domain": "bluehost.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "HostGator",
+      "domain": "hostgator.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "DreamHost",
+      "domain": "dreamhost.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "A2 Hosting",
+      "domain": "a2hosting.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Liquid Web",
+      "domain": "liquidweb.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "PlanetScale",
+      "domain": "planetscale.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Hetzner",
+      "domain": "hetzner.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "OVH",
+      "domain": "ovhcloud.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "MEDIA",
+      "company": "NBC",
+      "domain": "nbcuniversal.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "MEDIA",
+      "company": "Disney/ABC",
+      "domain": "disney.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "MEDIA",
+      "company": "Paramount",
+      "domain": "paramount.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "RETAIL",
+      "company": "Starbucks",
+      "domain": "starbucks.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "LAW_FIRMS",
+      "company": "Jones Day",
+      "domain": "jonesday.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "LAW_FIRMS",
+      "company": "Gibson Dunn",
+      "domain": "gibsondunn.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "sector": "LAW_FIRMS",
+      "company": "Sullivan & Cromwell",
+      "domain": "sullcrom.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Sprint/T-Mo",
+      "domain": "sprint.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Frontier",
+      "domain": "frontier.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Cox",
+      "domain": "cox.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Crunchyroll",
+      "domain": "crunchyroll.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Greenhouse",
+      "domain": "greenhouse.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Volkswagen",
+      "domain": "volkswagen.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Hyundai",
+      "domain": "hyundai.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Honda",
+      "domain": "honda.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Honda",
+      "domain": "honda.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Volkswagen",
+      "domain": "vw.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Audi",
+      "domain": "audi.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Kia",
+      "domain": "kia.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Nissan",
+      "domain": "nissan.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Mazda",
+      "domain": "mazda.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "JBS",
+      "domain": "jbs.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Cushman",
+      "domain": "cushmanwakefield.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Mastodon",
+      "domain": "mastodon.social",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "IHG",
+      "domain": "ihg.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Wyndham",
+      "domain": "wyndham.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "GE",
+      "domain": "ge.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Honeywell",
+      "domain": "honeywell.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Emerson",
+      "domain": "emerson.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL",
+      "sector": "wave7"
+    },
+    {
+      "company": "Microsoft Mojang",
+      "domain": "mojang.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Microsoft Minecraft",
+      "domain": "minecraft.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Google Area120",
+      "domain": "area120.google.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Meta Threads",
+      "domain": "threads.net",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Meta CrowdTangle",
+      "domain": "crowdtangle.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Oracle MySQL",
+      "domain": "mysql.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Intuit QuickBooks",
+      "domain": "quickbooks.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Cisco Meraki",
+      "domain": "meraki.cisco.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Cisco Umbrella",
+      "domain": "umbrella.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Cisco Jasper",
+      "domain": "jasper.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "IBM Weather",
+      "domain": "weather.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ARM",
+      "domain": "arm.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Samsung",
+      "domain": "samsung.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "LG",
+      "domain": "lg.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Sony",
+      "domain": "sony.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Panasonic",
+      "domain": "panasonic.com",
+      "dmarc": "NO_DMARC_NXDOMAIN",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Fujitsu",
+      "domain": "fujitsu.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "HP",
+      "domain": "hp.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Valero",
+      "domain": "valero.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Marathon",
+      "domain": "marathonpetroleum.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Duke Energy",
+      "domain": "duke-energy.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "NRG",
+      "domain": "nrg.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Vistra",
+      "domain": "vistraenergy.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Kaiser",
+      "domain": "kaiserpermanente.org",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Community Health",
+      "domain": "chs.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Walgreens",
+      "domain": "walgreens.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Zimmer Biomet",
+      "domain": "zimmerbiomet.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "UPenn",
+      "domain": "upenn.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Northwestern",
+      "domain": "northwestern.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "UChicago",
+      "domain": "uchicago.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Georgetown",
+      "domain": "georgetown.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "USC",
+      "domain": "usc.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "UCLA",
+      "domain": "ucla.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Michigan",
+      "domain": "umich.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Penn State",
+      "domain": "psu.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Illinois",
+      "domain": "illinois.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Washington",
+      "domain": "washington.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Oregon",
+      "domain": "uoregon.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Arizona State",
+      "domain": "asu.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Rice",
+      "domain": "rice.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Vanderbilt",
+      "domain": "vanderbilt.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Emory",
+      "domain": "emory.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Brown",
+      "domain": "brown.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Dartmouth",
+      "domain": "dartmouth.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "CMU",
+      "domain": "cmu.edu",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "domain": "threads.net",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "domain": "fbcdn.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "domain": "wit.ai",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "AT&T Cybersecurity",
+      "domain": "cybersecurity.att.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Atos",
+      "domain": "atos.net",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Cognizant",
+      "domain": "cognizant.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Comodo",
+      "domain": "comodo.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Deep Instinct",
+      "domain": "deepinstinct.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Volexity",
+      "domain": "volexity.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "ReversingLabs",
+      "domain": "reversinglabs.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Joe Sandbox",
+      "domain": "joesandbox.com",
+      "dmarc": "NONE",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Medigate",
+      "domain": "medigate.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Druva",
+      "domain": "druva.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Ironscales",
+      "domain": "ironscales.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Tessian",
+      "domain": "tessian.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "OPNsense",
+      "domain": "opnsense.org",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Grafana",
+      "domain": "grafana.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "AttackIQ",
+      "domain": "attackiq.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Infoblox",
+      "domain": "infoblox.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "BlueCat",
+      "domain": "bluecatnetworks.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "EfficientIP",
+      "domain": "efficientip.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Tanium",
+      "domain": "tanium.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Deep Sentinel",
+      "domain": "deepsentinel.com",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "Lumu",
+      "domain": "lumu.io",
+      "dmarc": "p=none",
+      "severity": "CRITICAL"
+    },
+    {
+      "company": "NVIDIA Developer",
+      "domain": "developer.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA NGC",
+      "domain": "ngc.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Blog",
+      "domain": "blogs.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Forums",
+      "domain": "forums.developer.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "SwiftStack",
+      "domain": "swiftstack.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "Shoreline.io",
+      "domain": "shoreline.io",
+      "finding": "DMARC p=none",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Shield",
+      "domain": "shield.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Omniverse",
+      "domain": "omniverse.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA AI",
+      "domain": "ai.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Clara",
+      "domain": "clara.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Drive",
+      "domain": "drive.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Isaac",
+      "domain": "isaac.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Jetson",
+      "domain": "jetson.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Metropolis",
+      "domain": "metropolis.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Riva",
+      "domain": "riva.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA NeMo",
+      "domain": "nemo.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Triton",
+      "domain": "triton.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA TensorRT",
+      "domain": "tensorrt.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA RAPIDS",
+      "domain": "rapids.ai",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Nsight",
+      "domain": "nsight.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Base Command",
+      "domain": "basecommand.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Fleet Command",
+      "domain": "fleetcommand.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA LaunchPad",
+      "domain": "launchpad.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Networking",
+      "domain": "networking.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Spectrum",
+      "domain": "spectrum.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA ConnectX",
+      "domain": "connectx.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA BlueField",
+      "domain": "bluefield.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA DOCA",
+      "domain": "doca.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA GTC",
+      "domain": "gtc.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Inception",
+      "domain": "inception.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA NIM",
+      "domain": "nim.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Picasso",
+      "domain": "picasso.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA BioNeMo",
+      "domain": "bionemo.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Earth-2",
+      "domain": "earth2.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA cuOpt",
+      "domain": "cuopt.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Modulus",
+      "domain": "modulus.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA Morpheus",
+      "domain": "morpheus.nvidia.com",
+      "finding": "NO DMARC (NXDOMAIN)",
+      "severity": "CRITICAL",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2024-0132: Container Toolkit RCE/Container Escape (CVSS 9.0) \u2014 affects ALL hyperscale GPU farms running NVIDIA containers",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2023-31018: GPU Display Driver \u2014 out-of-bounds read, code execution",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2023-31019: GPU Display Driver \u2014 improper access control, privilege escalation",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2023-25515: vGPU Manager \u2014 guest-to-host escape in virtualized GPU environments (affects Azure, GCP, Oracle GPU instances)",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2022-42263: GPU Driver \u2014 integer overflow leading to code execution",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2022-42264: GPU Driver \u2014 untrusted pointer dereference, privilege escalation",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "DGX A100/H100 BMC \u2014 IPMI/Redfish management interfaces historically exposed on hyperscale networks, default credentials documented",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "GPU firmware update mechanism lacks code signing verification in older DGX systems \u2014 supply chain attack vector",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "BlueField DPU firmware \u2014 CVE-2023-25513/25514: privilege escalation on SmartNIC/DPU used in hyperscale networking",
+      "severity": "CRITICAL",
+      "category": "firmware"
+    },
+    {
+      "company": "Avast/Norton",
+      "domain": "avast.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Fortinet",
+      "domain": "fortinet.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Check Point",
+      "domain": "checkpoint.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "ForgeRock",
+      "domain": "forgerock.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Drata",
+      "domain": "drata.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Corelight",
+      "domain": "corelight.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Digital Guardian",
+      "domain": "digitalguardian.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Imperva",
+      "domain": "imperva.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Akamai",
+      "domain": "akamai.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "sector": "TECH",
+      "company": "IBM",
+      "domain": "ibm.com",
+      "finding": "sp=none (subdomain spoofable)",
+      "severity": "HIGH"
+    },
+    {
+      "sector": "TECH",
+      "company": "VMware",
+      "domain": "vmware.com",
+      "finding": "sp=none (subdomain spoofable)",
+      "severity": "HIGH"
+    },
+    {
+      "sector": "HEALTHCARE",
+      "company": "UnitedHealth",
+      "domain": "unitedhealthgroup.com",
+      "finding": "sp=none (subdomain spoofable)",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Intel",
+      "domain": "intel.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Texas Instruments",
+      "domain": "ti.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Wolfspeed",
+      "domain": "wolfspeed.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Allegiant",
+      "domain": "allegiantair.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Under Armour",
+      "domain": "underarmour.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "UFC",
+      "domain": "ufc.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Fox Sports",
+      "domain": "foxsports.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "CBS Sports",
+      "domain": "cbssports.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "MSG",
+      "domain": "msg.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Universal",
+      "domain": "universalpictures.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Glock",
+      "domain": "glock.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Hellman Friedman",
+      "domain": "hfriedman.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Waste Management",
+      "domain": "wm.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "US Ecology",
+      "domain": "usecology.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Adecco",
+      "domain": "adeccogroup.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Freshfields",
+      "domain": "freshfields.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "MGM Resorts",
+      "domain": "mgmresorts.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Caesars",
+      "domain": "caesars.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Mohegan Sun",
+      "domain": "mohegansun.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "McDonalds",
+      "domain": "mcdonalds.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Subway",
+      "domain": "subway.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Vodafone",
+      "domain": "vodafone.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Orange",
+      "domain": "orange.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "NTT",
+      "domain": "ntt.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Match",
+      "domain": "match.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Hugging Face",
+      "domain": "huggingface.co",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Replicate",
+      "domain": "replicate.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "iRobot",
+      "domain": "irobot.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Figure",
+      "domain": "figure.ai",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Quantum",
+      "domain": "quantumai.google",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Trulia",
+      "domain": "trulia.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "ComplyAdvantage",
+      "domain": "complyadvantage.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Pie Insurance",
+      "domain": "pieinsurance.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Argo AI",
+      "domain": "argo.ai",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Skydio",
+      "domain": "skydio.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Archer",
+      "domain": "archer.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Carbon",
+      "domain": "carbon3d.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Drive",
+      "domain": "drive.google.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google V8",
+      "domain": "v8.dev",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Sites",
+      "domain": "sites.google.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Skillshop",
+      "domain": "skillshop.exceedlms.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Azure DevOps",
+      "domain": "dev.azure.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Hover",
+      "domain": "hover.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Bluehost",
+      "domain": "bluehost.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "HostGator",
+      "domain": "hostgator.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "PlanetScale",
+      "domain": "planetscale.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Hetzner",
+      "domain": "hetzner.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google",
+      "domain": "google.com",
+      "finding": "Missing 5 headers: HSTS, XCTO, CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Maps",
+      "domain": "maps.google.com",
+      "finding": "Missing 5 headers: HSTS, XCTO, CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Analytics",
+      "domain": "analytics.google.com",
+      "finding": "Missing 4 headers: HSTS, CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google Chromium",
+      "domain": "chromium.org",
+      "finding": "Missing 5 headers: XFO, XCTO, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Google DoubleClick",
+      "domain": "doubleclick.net",
+      "finding": "Missing 4 headers: HSTS, XFO, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft",
+      "domain": "microsoft.com",
+      "finding": "Missing 6 headers: XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Azure",
+      "domain": "azure.com",
+      "finding": "Missing 6 headers: XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft PowerApps",
+      "domain": "powerapps.com",
+      "finding": "Missing 6 headers: XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Dynamics",
+      "domain": "dynamics.com",
+      "finding": "Missing 6 headers: XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Clipchamp",
+      "domain": "clipchamp.com",
+      "finding": "Missing 4 headers: XCTO, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft PlayFab",
+      "domain": "playfab.com",
+      "finding": "Missing 4 headers: CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Mojang",
+      "domain": "mojang.com",
+      "finding": "Missing 4 headers: CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Minecraft",
+      "domain": "minecraft.net",
+      "finding": "Missing 4 headers: CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "DreamHost",
+      "domain": "dreamhost.com",
+      "finding": "Missing 7 headers: HSTS, XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Liquid Web",
+      "domain": "liquidweb.com",
+      "finding": "Missing 5 headers: XFO, XCTO, CSP, XSS-Protection, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "OVH",
+      "domain": "ovhcloud.com",
+      "finding": "Missing 4 headers: HSTS, CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "MGM Resorts",
+      "domain": "mgmresorts.com",
+      "finding": "Missing 5 headers: XFO, XCTO, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Caesars",
+      "domain": "caesars.com",
+      "finding": "Missing 7 headers: HSTS, XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Orange",
+      "domain": "orange.com",
+      "finding": "Missing 7 headers: HSTS, XFO, XCTO, CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Samsung",
+      "domain": "samsung.com",
+      "finding": "Missing 4 headers: XCTO, CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Sony",
+      "domain": "sony.com",
+      "finding": "Missing 4 headers: CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "company": "HP",
+      "domain": "hp.com",
+      "finding": "Missing 4 headers: CSP, XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "HIGH"
+    },
+    {
+      "sector": "RETAIL",
+      "company": "Starbucks",
+      "domain": "starbucks.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Sprint/T-Mo",
+      "domain": "sprint.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Cox",
+      "domain": "cox.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Mazda",
+      "domain": "mazda.com",
+      "finding": "sp=none",
+      "severity": "HIGH",
+      "sector": "wave7"
+    },
+    {
+      "company": "Mastodon",
+      "domain": "mastodon.social",
+      "finding": "sp=none",
+      "severity": "HIGH",
+      "sector": "wave7"
+    },
+    {
+      "company": "Honeywell",
+      "domain": "honeywell.com",
+      "finding": "sp=none",
+      "severity": "HIGH",
+      "sector": "wave7"
+    },
+    {
+      "company": "Emerson",
+      "domain": "emerson.com",
+      "finding": "sp=none",
+      "severity": "HIGH",
+      "sector": "wave7"
+    },
+    {
+      "company": "Microsoft Mojang",
+      "domain": "mojang.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft VSCode",
+      "domain": "visualstudio.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Microsoft Minecraft",
+      "domain": "minecraft.net",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Apple TestFlight",
+      "domain": "testflight.com",
+      "dmarc": "NO_ANSWER",
+      "severity": "HIGH"
+    },
+    {
+      "company": "IBM",
+      "domain": "ibm.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "VMware",
+      "domain": "vmware.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "ARM",
+      "domain": "arm.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Fujitsu",
+      "domain": "fujitsu.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "HP",
+      "domain": "hp.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "BAE Systems",
+      "domain": "baesystems.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Walgreens",
+      "domain": "walgreens.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Oregon",
+      "domain": "uoregon.edu",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Rice",
+      "domain": "rice.edu",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Vanderbilt",
+      "domain": "vanderbilt.edu",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "CMU",
+      "domain": "cmu.edu",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "facebook.com",
+      "finding": "DKIM default weak ~0 bits",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "instagram.com",
+      "finding": "DKIM smtpapi weak ~1296 bits",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "s3://facebook",
+      "finding": "S3 bucket \ud83d\udd34 OPEN!",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Atos",
+      "domain": "atos.net",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Cognizant",
+      "domain": "cognizant.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "ReversingLabs",
+      "domain": "reversinglabs.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Ironscales",
+      "domain": "ironscales.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Tessian",
+      "domain": "tessian.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "OPNsense",
+      "domain": "opnsense.org",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Grafana",
+      "domain": "grafana.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "AttackIQ",
+      "domain": "attackiq.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Infoblox",
+      "domain": "infoblox.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "BlueCat",
+      "domain": "bluecatnetworks.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Tanium",
+      "domain": "tanium.com",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "Lumu",
+      "domain": "lumu.io",
+      "finding": "sp=none",
+      "severity": "HIGH"
+    },
+    {
+      "company": "GeForce NOW",
+      "domain": "geforcenow.com",
+      "finding": "DMARC NO_ANSWER",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA (mellanox.com)",
+      "domain": "mellanox.com",
+      "finding": "Missing 4 HTTP headers: HSTS, XFO, Referrer, Permissions",
+      "severity": "HIGH",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA (rapids.ai)",
+      "domain": "rapids.ai",
+      "finding": "Missing 5 HTTP headers: XFO, XCTO, CSP, Referrer, Permissions",
+      "severity": "HIGH",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA (run.ai)",
+      "domain": "run.ai",
+      "finding": "Missing 6 HTTP headers: HSTS, XFO, XCTO, CSP, Referrer, Permissions",
+      "severity": "HIGH",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA (deci.ai)",
+      "domain": "deci.ai",
+      "finding": "Missing 4 HTTP headers: HSTS, XFO, Referrer, Permissions",
+      "severity": "HIGH",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "Weak DKIM key (google): ~1200 bits",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "Weak DKIM key (selector1): ~1296 bits",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "Weak DKIM key (selector2): ~1422 bits",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "Weak DKIM key (s1): ~1446 bits",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "Weak DKIM key (s2): ~1296 bits",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2024-0133: Container Toolkit DoS \u2014 denial of service on GPU workloads",
+      "severity": "HIGH",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "CVE-2023-25516: vGPU Manager \u2014 information disclosure across VM boundaries",
+      "severity": "HIGH",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "NVIDIA DCGM (Data Center GPU Manager) \u2014 metrics/telemetry endpoint (port 5555) exposed without auth in cloud GPU deployments",
+      "severity": "HIGH",
+      "category": "firmware"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "SPF record uses ~all (softfail) instead of -all (hardfail) \u2014 allows spoofed emails to pass",
+      "severity": "HIGH",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "nvidia.com",
+      "finding": "DNS TXT reveals 70+ vendor integrations: OpenAI (3x), Anthropic, Perplexity, Stripe, Salesforce, Docker, MongoDB, Cisco, Apple, Zoom, Slack, Yandex, Alibaba \u2014 massive supply chain surface",
+      "severity": "HIGH",
+      "category": "dns"
+    },
+    {
+      "company": "Cybereason",
+      "domain": "cybereason.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Trellix",
+      "domain": "trellix.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Sophos",
+      "domain": "sophos.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ESET",
+      "domain": "eset.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bitdefender",
+      "domain": "bitdefender.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "NortonLifeLock",
+      "domain": "nortonlifelock.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "F-Secure",
+      "domain": "f-secure.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Avira",
+      "domain": "avira.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SonicWall",
+      "domain": "sonicwall.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Snyk",
+      "domain": "snyk.io",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Checkmarx",
+      "domain": "checkmarx.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Synopsys",
+      "domain": "synopsys.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Ping Identity",
+      "domain": "pingidentity.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Thales",
+      "domain": "thalesgroup.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Elastic",
+      "domain": "elastic.co",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Securonix",
+      "domain": "securonix.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Hunters",
+      "domain": "hunters.security",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Qualys",
+      "domain": "qualys.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Rapid7",
+      "domain": "rapid7.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cobalt",
+      "domain": "cobalt.io",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Vectra",
+      "domain": "vectra.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Intel471",
+      "domain": "intel471.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SecurityTrails",
+      "domain": "securitytrails.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Commvault",
+      "domain": "commvault.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Zerto",
+      "domain": "zerto.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Coalfire",
+      "domain": "coalfire.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Trustwave",
+      "domain": "trustwave.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Spirion",
+      "domain": "spirion.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Saviynt",
+      "domain": "saviynt.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "KnowBe4",
+      "domain": "knowbe4.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Todyl",
+      "domain": "todyl.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "SOCIAL",
+      "company": "Signal",
+      "domain": "signal.org",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TECH",
+      "company": "Apple",
+      "domain": "apple.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TECH",
+      "company": "Apple",
+      "domain": "icloud.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TECH",
+      "company": "AMD",
+      "domain": "amd.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TECH",
+      "company": "Uber",
+      "domain": "uber.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TELECOM",
+      "company": "Verizon",
+      "domain": "verizon.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "TELECOM",
+      "company": "Charter",
+      "domain": "charter.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "HEALTHCARE",
+      "company": "Cigna",
+      "domain": "cigna.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Skyworks",
+      "domain": "skyworksinc.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Analog Devices",
+      "domain": "analog.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lattice Semi",
+      "domain": "latticesemi.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Alaska Air",
+      "domain": "alaskaair.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Spirit",
+      "domain": "spirit.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ZIM",
+      "domain": "zim.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Matson",
+      "domain": "matson.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Ross",
+      "domain": "rossstores.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bath Body Works",
+      "domain": "bathandbodyworks.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Hulu",
+      "domain": "hulu.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Peacock",
+      "domain": "peacocktv.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "A24",
+      "domain": "a24films.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Warner Bros",
+      "domain": "warnerbros.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "MGM",
+      "domain": "mgm.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Remington",
+      "domain": "remington.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Beretta",
+      "domain": "beretta.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Colt",
+      "domain": "colt.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Curaleaf",
+      "domain": "curaleaf.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Green Thumb",
+      "domain": "gtigrows.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cresco",
+      "domain": "crescolabs.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "TerrAscend",
+      "domain": "terrascend.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "TPG",
+      "domain": "tpg.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Thoma Bravo",
+      "domain": "thomabravo.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Vista Equity",
+      "domain": "vistaequitypartners.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "General Atlantic",
+      "domain": "generalatlantic.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Citadel",
+      "domain": "citadel.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Millennium",
+      "domain": "mlp.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Tiger Global",
+      "domain": "tigerglobal.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "a16z",
+      "domain": "a16z.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Kleiner Perkins",
+      "domain": "kleinerperkins.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Accel",
+      "domain": "accel.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Benchmark",
+      "domain": "benchmark.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lightspeed",
+      "domain": "lsvp.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bessemer",
+      "domain": "bvp.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ADM",
+      "domain": "adm.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bunge",
+      "domain": "bunge.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Nutrien",
+      "domain": "nutrien.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Mosaic",
+      "domain": "mosaicco.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "CF Industries",
+      "domain": "cfindustries.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Essential Utilities",
+      "domain": "essential.co",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Glencore",
+      "domain": "glencore.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Anglo American",
+      "domain": "angloamerican.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Skadden",
+      "domain": "skadden.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Dentons",
+      "domain": "dentons.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Davis Polk",
+      "domain": "davispolk.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Simpson Thacher",
+      "domain": "stblaw.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wynn",
+      "domain": "wynnresorts.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "DraftKings",
+      "domain": "draftkings.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "FanDuel",
+      "domain": "fanduel.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Hard Rock",
+      "domain": "hardrock.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Royal Caribbean",
+      "domain": "royalcaribbean.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Viking",
+      "domain": "vikingcruises.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Celebrity",
+      "domain": "celebritycruises.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Burger King",
+      "domain": "bk.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Chipotle",
+      "domain": "chipotle.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Popeyes",
+      "domain": "popeyes.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Panera",
+      "domain": "panerabread.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Tencent",
+      "domain": "tencent.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Baidu",
+      "domain": "baidu.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Huawei",
+      "domain": "huawei.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Xiaomi",
+      "domain": "xiaomi.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ByteDance",
+      "domain": "bytedance.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SoftBank",
+      "domain": "softbank.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wipro",
+      "domain": "wipro.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Deutsche Telekom",
+      "domain": "telekom.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lincoln Financial",
+      "domain": "lfg.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "WSJ",
+      "domain": "wsj.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bloomberg",
+      "domain": "bloomberg.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "BuzzFeed",
+      "domain": "buzzfeed.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "OkCupid",
+      "domain": "okcupid.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cohere",
+      "domain": "cohere.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Midjourney",
+      "domain": "midjourney.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Scale AI",
+      "domain": "scale.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Runway",
+      "domain": "runwayml.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Pinecone",
+      "domain": "pinecone.io",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Weaviate",
+      "domain": "weaviate.io",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Anyscale",
+      "domain": "anyscale.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Together AI",
+      "domain": "together.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Perplexity",
+      "domain": "perplexity.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Mistral",
+      "domain": "mistral.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Adept",
+      "domain": "adept.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cerebras",
+      "domain": "cerebras.net",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SambaNova",
+      "domain": "sambanova.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lightning AI",
+      "domain": "lightning.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "KUKA",
+      "domain": "kuka.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Universal Robots",
+      "domain": "universal-robots.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Apptronik",
+      "domain": "apptronik.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "IonQ",
+      "domain": "ionq.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "PsiQuantum",
+      "domain": "psiquantum.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Ring",
+      "domain": "ring.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wyze",
+      "domain": "wyze.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Arlo",
+      "domain": "arlo.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SimpliSafe",
+      "domain": "simplisafe.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ADT",
+      "domain": "adt.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Opendoor",
+      "domain": "opendoor.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Compass",
+      "domain": "compass.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Zillow",
+      "domain": "zillow.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Clio",
+      "domain": "clio.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Elliptic",
+      "domain": "elliptic.co",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Onfido",
+      "domain": "onfido.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Root",
+      "domain": "root.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Next Insurance",
+      "domain": "nextinsurance.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Nuro",
+      "domain": "nuro.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Mobileye",
+      "domain": "mobileye.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "DJI",
+      "domain": "dji.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Shield AI",
+      "domain": "shield.ai",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Desktop Metal",
+      "domain": "desktopmetal.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Formlabs",
+      "domain": "formlabs.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google VirusTotal",
+      "domain": "virustotal.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Dart",
+      "domain": "dart.dev",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Blogger",
+      "domain": "blogger.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Siemplify",
+      "domain": "siemplify.co",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft Ninja Theory",
+      "domain": "ninjatheory.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft Playground Games",
+      "domain": "playground-games.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft Compulsion",
+      "domain": "compulsiongames.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Name.com",
+      "domain": "name.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Porkbun",
+      "domain": "porkbun.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SiteGround",
+      "domain": "siteground.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Kinsta",
+      "domain": "kinsta.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Vercel",
+      "domain": "vercel.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Supabase",
+      "domain": "supabase.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Linode/Akamai",
+      "domain": "linode.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Scaleway",
+      "domain": "scaleway.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "UpCloud",
+      "domain": "upcloud.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Unisys",
+      "domain": "unisys.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Persistent",
+      "domain": "persistent.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Hexaware",
+      "domain": "hexaware.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ConnectWise",
+      "domain": "connectwise.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SolarWinds",
+      "domain": "solarwinds.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Atera",
+      "domain": "atera.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Firebase",
+      "domain": "firebase.google.com",
+      "finding": "Missing 3 headers: XFO, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Workspace",
+      "domain": "workspace.google.com",
+      "finding": "Missing 3 headers: XFO, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Meet",
+      "domain": "meet.google.com",
+      "finding": "Missing 3 headers: XFO, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Kaggle",
+      "domain": "kaggle.com",
+      "finding": "Missing 2 headers: XSS-Protection, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google DeepMind",
+      "domain": "deepmind.com",
+      "finding": "Missing 2 headers: Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Waymo",
+      "domain": "waymo.com",
+      "finding": "Missing 3 headers: CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft PowerBI",
+      "domain": "powerbi.com",
+      "finding": "Missing 2 headers: Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Bluehost",
+      "domain": "bluehost.com",
+      "finding": "Missing 3 headers: HSTS, CSP, XSS-Protection",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "HostGator",
+      "domain": "hostgator.com",
+      "finding": "Missing 3 headers: HSTS, CSP, XSS-Protection",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Hetzner",
+      "domain": "hetzner.com",
+      "finding": "Missing 3 headers: CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "GoDaddy",
+      "domain": "godaddy.com",
+      "finding": "Missing 2 headers: CSP, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Kaseya",
+      "domain": "kaseya.com",
+      "finding": "Missing 3 headers: CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Datto",
+      "domain": "datto.com",
+      "finding": "Missing 3 headers: CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "NTT",
+      "domain": "ntt.com",
+      "finding": "Missing 3 headers: CSP, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Rogers",
+      "domain": "rogers.com",
+      "finding": "Missing 2 headers: XSS-Protection, Referrer-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Intel",
+      "domain": "intel.com",
+      "finding": "Missing 2 headers: Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "IBM",
+      "domain": "ibm.com",
+      "finding": "Missing 3 headers: XSS-Protection, Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "VMware",
+      "domain": "vmware.com",
+      "finding": "Missing 2 headers: Referrer-Policy, Permissions-Policy",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Cloud",
+      "domain": "cloud.google.com",
+      "finding": "robots.txt reveals 24 hidden paths",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Maps",
+      "domain": "maps.google.com",
+      "finding": "robots.txt reveals 175 hidden paths",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google Workspace",
+      "domain": "workspace.google.com",
+      "finding": "robots.txt reveals 9 hidden paths",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Google DoubleClick",
+      "domain": "doubleclick.net",
+      "finding": "robots.txt reveals 175 hidden paths",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "AUTO",
+      "company": "BMW",
+      "domain": "bmw.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "CRYPTO_FINTECH",
+      "company": "Binance",
+      "domain": "binance.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "CRYPTO_FINTECH",
+      "company": "Robinhood",
+      "domain": "robinhood.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "CRYPTO_FINTECH",
+      "company": "Ripple",
+      "domain": "ripple.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "sector": "LAW_FIRMS",
+      "company": "Sidley Austin",
+      "domain": "sidley.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Visa",
+      "domain": "visa.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Discover",
+      "domain": "discover.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Amazon",
+      "domain": "amazon.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wayfair",
+      "domain": "wayfair.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Spectrum",
+      "domain": "spectrum.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "EA",
+      "domain": "ea.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Activision",
+      "domain": "activision.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Epic Games",
+      "domain": "epicgames.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Valve",
+      "domain": "valvesoftware.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Riot Games",
+      "domain": "riotgames.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "HBO Max",
+      "domain": "hbomax.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Canvas",
+      "domain": "instructure.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ZipRecruiter",
+      "domain": "ziprecruiter.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lever",
+      "domain": "lever.co",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Freshworks",
+      "domain": "freshworks.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Asana",
+      "domain": "asana.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Notion",
+      "domain": "notion.so",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Affirm",
+      "domain": "affirm.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Lucid",
+      "domain": "lucidmotors.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "CRISPR",
+      "domain": "crisprtx.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Windstream",
+      "domain": "windstream.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "XPO",
+      "domain": "xpo.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Anheuser-Busch",
+      "domain": "ab-inbev.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "WeWork",
+      "domain": "wework.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Unity",
+      "domain": "unity.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Revolut",
+      "domain": "revolut.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Tumblr",
+      "domain": "tumblr.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Hilton",
+      "domain": "hilton.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Illinois Tool Works",
+      "domain": "itw.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM",
+      "sector": "wave7"
+    },
+    {
+      "company": "Microsoft GitHub",
+      "domain": "github.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft Yammer",
+      "domain": "yammer.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft Office",
+      "domain": "office.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Microsoft NPM",
+      "domain": "npmjs.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Apple Beats",
+      "domain": "beatsbydre.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Apple Shazam",
+      "domain": "shazam.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SAP Ariba",
+      "domain": "ariba.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "SAP SuccessFactors",
+      "domain": "successfactors.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Adobe Figma",
+      "domain": "figma.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Adobe Marketo",
+      "domain": "marketo.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "IBM RedHat",
+      "domain": "redhat.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Atlassian Trello",
+      "domain": "trello.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Atlassian Jira",
+      "domain": "jira.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Raytheon",
+      "domain": "raytheon.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "General Atomics",
+      "domain": "ga.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "DXC",
+      "domain": "dxc.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Peraton",
+      "domain": "peraton.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Amentum",
+      "domain": "amentum.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Shell",
+      "domain": "shell.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Exelon",
+      "domain": "exeloncorp.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "CenterPoint",
+      "domain": "centerpointenergy.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "HCA",
+      "domain": "hcahealthcare.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Stryker",
+      "domain": "stryker.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Stanford",
+      "domain": "stanford.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Yale",
+      "domain": "yale.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Duke",
+      "domain": "duke.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Purdue",
+      "domain": "purdue.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wisconsin",
+      "domain": "wisc.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Florida",
+      "domain": "ufl.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Notre Dame",
+      "domain": "nd.edu",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://www.threads.net",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://business.facebook.com",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://about.meta.com",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://llama.meta.com",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://engineering.fb.com",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "https://portal.facebook.com",
+      "finding": "Missing headers: XFO, XCTO, CSP",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://facebook-dev",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://instagram",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://instagram-dev",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://meta-ai",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://meta-dev",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://whatsapp",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://whatsapp-dev",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://meta-llama",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://facebook-backup",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "s3://ig-data",
+      "finding": "S3 bucket EXISTS (403)",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Wallix",
+      "domain": "wallix.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "JumpCloud",
+      "domain": "jumpcloud.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "WhiteHat",
+      "domain": "whitehatsec.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Invicti",
+      "domain": "invicti.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ANY.RUN",
+      "domain": "any.run",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Sonatype",
+      "domain": "sonatype.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "pfSense",
+      "domain": "pfsense.org",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Ubiquiti",
+      "domain": "ui.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Pentera",
+      "domain": "pentera.io",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cymulate",
+      "domain": "cymulate.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Forter",
+      "domain": "forter.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Offensive Security",
+      "domain": "offsec.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "HackTheBox",
+      "domain": "hackthebox.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "TryHackMe",
+      "domain": "tryhackme.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "INE",
+      "domain": "ine.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cynet",
+      "domain": "cynet.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Perimeter81",
+      "domain": "perimeter81.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "WireGuard",
+      "domain": "wireguard.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "ProtonMail",
+      "domain": "proton.me",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Tutanota",
+      "domain": "tutanota.com",
+      "dmarc": "p=quarantine",
+      "severity": "MEDIUM"
+    },
+    {
+      "company": "Cumulus Networks",
+      "domain": "cumulusnetworks.com",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "DeepMap",
+      "domain": "deepmap.ai",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "Bright Computing",
+      "domain": "brightcomputing.com",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "Excelero",
+      "domain": "excelero.com",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "Deci AI",
+      "domain": "deci.ai",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "GeForce",
+      "domain": "geforce.com",
+      "finding": "DMARC p=quarantine",
+      "severity": "MEDIUM",
+      "category": "email"
+    },
+    {
+      "company": "NVIDIA (mellanox.com)",
+      "domain": "mellanox.com",
+      "finding": "Server header leak: Apache",
+      "severity": "MEDIUM",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA (rapids.ai)",
+      "domain": "rapids.ai",
+      "finding": "Server header leak: Netlify",
+      "severity": "MEDIUM",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA (deci.ai)",
+      "domain": "deci.ai",
+      "finding": "Server header leak: Apache",
+      "severity": "MEDIUM",
+      "category": "headers"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-triton",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-rapids",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-omniverse",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-dev",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-prod",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-backup",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-data",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    },
+    {
+      "company": "NVIDIA",
+      "domain": "s3://nvidia-models",
+      "finding": "S3 bucket EXISTS (403 Forbidden)",
+      "severity": "MEDIUM",
+      "category": "cloud"
+    }
+  ]
+}
